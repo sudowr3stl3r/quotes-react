@@ -77,7 +77,7 @@ function FooterNav () {
                         </div>    
                     </div>
                     </IconButton>
-                    <a href='https://github.com/sudowr3stl3r' target="_blank" rel="noreferrer"><IconButton title='github'><CodeIcon fontSize='large' style={{width: 55}}/></IconButton></a>
+                    <a href='https://github.com/sudowr3stl3r/quotes-react/tree/master' target="_blank" rel="noreferrer"><IconButton title='github'><CodeIcon fontSize='large' style={{width: 55}}/></IconButton></a>
                     <IconButton onClick={openModal} title='image info'><ImageSearchIcon fontSize='large' style={{width: 55}}/>
                     
                         <Modal
