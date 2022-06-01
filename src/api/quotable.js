@@ -2,5 +2,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL : 'http://api.quotable.io'
+    baseURL : 'https://api.quotable.io'
 });
